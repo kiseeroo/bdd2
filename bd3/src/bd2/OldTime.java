@@ -17,6 +17,14 @@ public class OldTime extends OldStudyDuration {
     }
 }
 
+<<<<<<< HEAD
+=======
+//123213
+//123213
+//48458
+//test
+//19:33
+>>>>>>> branch 'master' of https://github.com/kiseeroo/bdd2.git
 
 
 

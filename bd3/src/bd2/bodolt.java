@@ -121,3 +121,16 @@ private int lSunday(int b, int on) {
 	return 0;
 }
 }
+<<<<<<< HEAD
+=======
+
+//test
+//123
+//1212
+//213213
+
+//sadsadsa
+//34234
+//dsfds
+//19:33
+>>>>>>> branch 'master' of https://github.com/kiseeroo/bdd2.git
