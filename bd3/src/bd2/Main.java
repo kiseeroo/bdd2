@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		tootsoo();
 	}
-	public static void tootsoo() {
+	public static void tootsoo() { 
 		OldStudyDuration year8=new OldStudyDuration(1978,45);
 		int el=year8.getElementary();
 		int mid=year8.getMiddle();

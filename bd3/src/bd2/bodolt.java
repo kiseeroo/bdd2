@@ -22,7 +22,7 @@ public int jil(int f, int l) {
 		young=true;
 	}
 	
-	return 0;//sadsad
+	return 0;
 }
 public int lSunday(int a) {
 	int jil=a-1978, b=jil;
@@ -121,12 +121,3 @@ private int lSunday(int b, int on) {
 	return 0;
 }
 }
-
-//test
-//123
-//1212
-//213213
-
-//sadsadsa
-//34234
-//dsfds

@@ -17,10 +17,6 @@ public class OldTime extends OldStudyDuration {
     }
 }
 
-//123213
-//123213
-//48458
-//test
 
 
 
